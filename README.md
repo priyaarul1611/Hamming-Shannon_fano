@@ -27,9 +27,13 @@ print("Redundancy:", red)
 print("Variance:", var)
 ```
 # Calculation:
-```
+<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/492e0d3a-d825-4b2e-a362-0de413dcac91" />
 
-```
+<img width="900" height="1000" alt="image" src="https://github.com/user-attachments/assets/cac7622a-0913-4b4b-a55e-40167507df80" />
+<img width="900" height="200" alt="image" src="https://github.com/user-attachments/assets/4c05d200-398a-4dd2-8474-d9dbfc97c6d0" />
+
+
+
 # Output
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/f2e7d611-04d0-456d-966c-85b97542b5f7" />
  
